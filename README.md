@@ -68,3 +68,7 @@ https://www.kaggle.com/abhinavwalia95/entity-annotated-corpus?select=ner_dataset
 ## References:
 https://www.aitimejournal.com/@akshay.chavan/complete-tutorial-on-named-entity-recognition-ner-using-python-and-keras
 https://github.com/Akshayc1/named-entity-recognition/blob/master/NER%20using%20CRF.ipynb
+
+### Other References:
+https://www.depends-on-the-definition.com/named-entity-recognition-conditional-random-fields-python/
+https://www.depends-on-the-definition.com/sequence-tagging-lstm-crf/
